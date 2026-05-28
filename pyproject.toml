@@ -13,7 +13,7 @@ sqlalchemy = "^2.0.44"
 openpyxl = "^3.1.5"
 ep-functions-library = { version = "0.1.6", source = "eu-ep-python" }
 
-kad-functions = { path = "../functions", develop = true }
+kad-functions = { path = "../kad_functions", develop = true }
 matplotlib = "^3.10.7"
 statsmodels = "^0.14.5"
 searoute = "^1.4.3"

@@ -926,7 +926,7 @@ develop = true
 
 [package.source]
 type = "directory"
-url = "../functions"
+url = "../kad_functions"
 
 [[package]]
 name = "kiwisolver"
@@ -3164,4 +3164,4 @@ cffi = ["cffi (>=1.17,<2.0) ; platform_python_implementation != \"PyPy\" and pyt
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.11,<4.0"
-content-hash = "f2138befb27f6df247dabe0eedf88b8f422bda1441dac81efc5fcd9615f668e9"
+content-hash = "11cdcd986013f18c2cc2397d7a4bf4cbd42fdca31ae621fea63de4c6f6e1a581"
